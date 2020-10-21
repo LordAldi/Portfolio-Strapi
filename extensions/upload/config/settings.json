@@ -1,0 +1,8 @@
+{
+    "provider":"cloudinary",
+    "providerOptions":{
+        "cloud_name":"lordaldi",
+        "api_key":"761434313162982",
+        "api_secret": "7JsS6SaFuhda93v9rbIxgwVdYq8"
+    }
+}
